@@ -6,4 +6,4 @@ export const Square = (props) => {
       {props.value}
     </button>
   );
-}
+};
